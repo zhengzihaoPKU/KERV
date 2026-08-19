@@ -15,7 +15,7 @@
   <a href="https://arxiv.org/pdf/2603.01581">
     <img src="https://img.shields.io/badge/Paper-PDF-E67E22.svg" alt="Paper PDF">
   </a>
-  <a href="https://github.com/lusunn111/KERV">
+  <a href="https://github.com/zhengzihaoPKU/KERV">
     <img src="https://img.shields.io/badge/Code-GitHub-181717.svg?logo=github&logoColor=white" alt="Code">
   </a>
   <a href="LICENSE">
@@ -203,7 +203,7 @@ The reference environment uses Linux, Python 3.10, CUDA 12.x, and BF16. Create
 an isolated environment and install PyTorch for the CUDA version on your host:
 
 ```bash
-git clone https://github.com/lusunn111/KERV.git KERV
+git clone https://github.com/zhengzihaoPKU/KERV.git KERV
 cd KERV
 
 conda create -n kerv python=3.10 -y
