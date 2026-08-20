@@ -23,7 +23,12 @@
   </a>
 </p>
 
-<p align="center"><strong>🔥 KERV has been accepted by DAC 2026!</strong></p>
+## News
+
+- **2026-08** — 🚀 We open-sourced KERV and its runtime optimization.
+- **2026-07** — 🤝 We partnered with BAAI to optimize KERV based on FlagOS.
+- **2026-07** — ⚙️ We added runtime optimizations to KERV.
+- **2026-03** — 🔥 KERV has been accepted by **DAC 2026**!
 
 KERV is a speculative decoding framework for accelerating autoregressive
 Vision-Language-Action (VLA) models. It connects token-domain VLA generation
